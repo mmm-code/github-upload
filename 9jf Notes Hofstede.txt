@@ -1,0 +1,8 @@
+Hofstede
+6 Dimensional model of national culture
+	Individualism
+	Power Distance
+	Masculinity
+	Uncertainty Avoidance
+	Long-term Orientation
+	Indulgence

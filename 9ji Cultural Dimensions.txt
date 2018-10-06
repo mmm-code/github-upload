@@ -1,0 +1,242 @@
+Hofstede's cultural dimensions theory
+https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Hofstede's cultural dimensions theory is a framework for cross-cultural communication, developed by Geert Hofstede. It describes the effects of a society's culture on the values of its members, and how these values relate to behavior, using a structure derived from factor analysis.[1]
+
+Hofstede developed his original model as a result of using factor analysis to examine the results of a worldwide survey of employee values by IBM between 1967 and 1973. It has been refined since. The original theory proposed four dimensions along which cultural values could be analyzed: individualism-collectivism; uncertainty avoidance; power distance (strength of social hierarchy) and masculinity-femininity (task orientation versus person-orientation). Independent research in Hong Kong led Hofstede to add a fifth dimension, long-term orientation, to cover aspects of values not discussed in the original paradigm. In 2010, Hofstede added a sixth dimension, indulgence versus self-restraint.
+
+Hofstede's work established a major research tradition in cross-cultural psychology and has also been drawn upon by researchers and consultants in many fields relating to international business and communication. The theory has been widely used in several fields as a paradigm for research, particularly in cross-cultural psychology, international management, and cross-cultural communication. It continues to be a major resource in cross-cultural fields. It has inspired a number of other major cross-cultural studies of values, as well as research on other aspects of culture, such as social beliefs.[citation needed]
+
+History[edit]
+In 1965 Hofstede founded the personnel research department of IBM Europe (which he managed until 1971). Between 1967 and 1973, he executed a large survey study regarding national values differences across the worldwide subsidiaries of this multinational corporation: he compared the answers of 117,000 IBM matched employees samples on the same attitude survey in different countries. He first focused his research on the 40 largest countries, and then extended it to 50 countries and 3 regions, "at that time probably the largest matched-sample cross-national database available anywhere.".[2] The theory was one of the first quantifiable theories that could be used to explain observed differences between cultures.[citation needed]
+
+This initial analysis identified systematic differences in national cultures on four primary dimensions: power distance (PDI), individualism (IDV), uncertainty avoidance (UAI) and masculinity (MAS), which are described below. As Hofstede explains on his academic website,[3] these dimensions regard "four anthropological problem areas that different national societies handle differently: ways of coping with inequality, ways of coping with uncertainty, the relationship of the individual with her or his primary group, and the emotional implications of having been born as a girl or as a boy ". In 1984 he published Culture's Consequences,[4] a book which combines the statistical analysis from the survey research with his personal experiences.
+
+In order to confirm the early results from the IBM study and to extend them to a variety of populations, six subsequent cross-national studies have successfully been conducted between 1990 and 2002. Covering between 14 and 28 countries, the samples included commercial airline pilots, students, civil service managers, 'up-market' consumers and 'elites'. The combined research established value scores on the four dimensions for a total of 76 countries and regions.
+
+In 1991 Michael Harris Bond and colleagues conducted a study among students in 23 countries, using a survey instrument developed with Chinese employees and managers. The results from this study led Hofstede to add a new fifth dimension to his model: long term orientation (LTO) initially called Confucian dynamism. In 2010 the scores for this dimension have been extended to 93 countries thanks to the research of Michael Minkov who used the recent World Values Survey.[5] Further research has refined some of the original dimensions, and introduced the difference between country-level and individual-level data in analysis.
+
+Finally, Minkov's World Values Survey data analysis of 93 representative samples of national populations also led Geert Hofstede to identify a sixth last dimension: indulgence versus restraint.[citation needed]
+
+Dimensions of national cultures[edit]
+Power distance index (PDI): The power distance index is defined as “the extent to which the less powerful members of organizations and institutions (like the family) accept and expect that power is distributed unequally.” In this dimension, inequality and power is perceived from the followers, or the lower level. A higher degree of the Index indicates that hierarchy is clearly established and executed in society, without doubt or reason. A lower degree of the Index signifies that people question authority and attempt to distribute power.[6]
+Individualism vs. collectivism (IDV): This index explores the “degree to which people in a society are integrated into groups.” Individualistic societies have loose ties that often only relates an individual to his/her immediate family. They emphasize the “I” versus the “we.” Its counterpart, collectivism, describes a society in which tightly-integrated relationships tie extended families and others into in-groups. These in-groups are laced with undoubted loyalty and support each other when a conflict arises with another in-group.[6][7]
+
+
+Uncertainty avoidance (UAI): The uncertainty avoidance index is defined as “a society's tolerance for ambiguity,” in which people embrace or avert an event of something unexpected, unknown, or away from the status quo. Societies that score a high degree in this index opt for stiff codes of behavior, guidelines, laws, and generally rely on absolute truth, or the belief that one lone truth dictates everything and people know what it is. A lower degree in this index shows more acceptance of differing thoughts or ideas. Society tends to impose fewer regulations, ambiguity is more accustomed to, and the environment is more free-flowing.[6][7]
+
+
+Masculinity vs. femininity (MAS): In this dimension, masculinity is defined as “a preference in society for achievement, heroism, assertiveness and material rewards for success.” Its counterpart represents “a preference for cooperation, modesty, caring for the weak and quality of life.” Women in the respective societies tend to display different values. In feminine societies, they share modest and caring views equally with men. In more masculine societies, women are somewhat assertive and competitive, but notably less than men. In other words, they still recognize a gap between male and female values. This dimension is frequently viewed as taboo in highly masculine societies.[6][7][8]
+
+
+Long-term orientation vs. short-term orientation (LTO): This dimension associates the connection of the past with the current and future actions/challenges. A lower degree of this index (short-term) indicates that traditions are honored and kept, while steadfastness is valued. Societies with a high degree in this index (long-term) views adaptation and circumstantial, pragmatic problem-solving as a necessity. A poor country that is short-term oriented usually has little to no economic development, while long-term oriented countries continue to develop to a point.[6][7]
+
+
+Indulgence vs. restraint (IND): This dimension is essentially a measure of happiness; whether or not simple joys are fulfilled. Indulgence is defined as “a society that allows relatively free gratification of basic and natural human desires related to enjoying life and having fun.” Its counterpart is defined as “a society that controls gratification of needs and regulates it by means of strict social norms.” Indulgent societies believe themselves to be in control of their own life and emotions; restrained societies believe other factors dictate their life and emotions.[6][7]
+
+
+Differences between cultures on the values dimensions[edit]
+Putting together national scores (from 1 for the lowest to 120 for the highest), Hofstede's six-dimensions model allows international comparison between cultures, also called comparative research:[9]
+
+Power distance index shows very high scores for Latin and Asian countries, African areas and the Arab world. On the other hand, Anglo and Germanic countries have a lower power distance (only 11 for Austria and 18 for Denmark).
+
+For example, the United States has a 40 on the cultural scale of Hofstede's analysis. Compared to Guatemala where the power distance is very high (95) and Israel where it is very low (13), the United States is in the middle.
+Germany scores a high UAI (65) and Belgium even more (94) compared to Sweden (29) or Denmark (23) despite their geographic proximity. However, few countries have very low UAI.
+
+
+Masculinity is extremely low in Nordic countries: Norway scores 8 and Sweden only 5. In contrast, Masculinity is very high in Japan (95), and in European countries like Hungary, Austria and Switzerland influenced by German culture. In the Anglo world, masculinity scores are relatively high with 66 for the United Kingdom for example. Latin countries present contrasting scores: for example Venezuela has a 73-point score whereas Chile's is only 28.
+High long term orientation scores are typically found in East Asia, with China having 118, Hong Kong 96 and Japan 88. They are moderate in Eastern and Western Europe, and low in the Anglo countries, the Muslim world, Africa and in Latin America. However, there are less data about this dimension.
+There are even less data about the sixth dimension. Indulgence scores are highest in Latin America, parts of Africa, the Anglo world and Nordic Europe; restraint is mostly found in East Asia, Eastern Europe and the Muslim world.
+Correlations of values with other country differences[edit]
+Researchers have grouped some countries together by comparing countries' value scores with other country difference such as geographical proximity, shared language, related historical background, similar religious beliefs and practices, common philosophical influences, identical political systems, in other words everything which is implied by the definition of a nation's culture. For example, low power distance is associated with consultative political practices and income equity, whereas high power distance is correlated with unequal income distribution, as well as bribery and corruption in domestic politics. Individualism is positively correlated with mobility and national wealth. As a country becomes richer, its culture becomes more individualistic.
+
+Another example of correlation was drawn by the Sigma Two Group[10] in 2003. They have studied the correlation between countries' cultural dimensions and their predominant religion[11] based on the World Factbook 2002. On average predominantly Catholic countries show very high uncertainty avoidance, relatively high power distance, moderate masculinity and relatively low individualism, whereas predominantly atheist countries have low uncertainty avoidance, very high power distance, moderate masculinity, and very low individualism. Coelho (2011) found inverse correlations between rates of specific kinds of innovation in manufacturing companies and the percentage of large companies per country as well as the employment of a specific kind of manufacturing strategy. The national culture measure of power distance is positively correlated with the ratio of companies with process innovation only over the companies with any of the three types of innovation considered in the country (determinant of correlation: 28%). Hence in countries with higher power distance, innovative manufacturing companies are somewhat more bound to resort to process innovations.
+
+The quantification of cultural dimensions enables us to make cross-regional comparisons and form an image of the differences between not just countries but entire regions. For example, the cultural model of the Mediterranean countries is dominated by high levels of acceptance of inequalities, with uncertainty aversion influencing their choices. With regard to individualism, Mediterranean countries tend to be characterized by moderate levels of individualistic behavior. The same applies to masculinity. Future orientation places Mediterranean countries in a middle ranking, and they show a preference for indulgence values.[12]
+
+"Culture is at times at the interface of a source of conflict, but it is increasingly synergistic in our current and future social contract.. Cultural differences are a nuisance at best, sometimes a disaster, but always present like the air we breathe."[13]
+
+Despite the evidence that groups are different from each other, we tend to believe that deep inside all people are the same. In fact, as we are generally not aware of other countries' cultures, we tend to minimize cultural differences. This leads to misunderstandings and misinterpretations between people from different countries.
+
+Instead of the convergence phenomena we expected with information technologies availability (the "global village culture"), cultural differences are still significant today and diversity tends to increase. So, in order to be able to have respectful cross-cultural relations, we have to be aware of these cultural differences.
+
+With this model, Geert Hofstede shed light on these differences. The tool can be used to give a general overview and an approximate understanding of other cultures, what to expect from them and how to behave towards groups from other countries.
+
+Practical applications of theory[edit]
+Geert Hofstede is perhaps the best known sociologist of culture and anthropologist in the context of applications for understanding international business.[citation needed] Many articles and research papers refer to his publications,[citation needed] with over 20,000 citations[citation needed] to his 2003 book Culture's Consequences: Comparing Values, Behaviors, Institutions and Organizations Across Nations[14] (which is an updated version of his first publication[4]). The five dimensions model is widely used in many domains of human social life,[citation needed] and particularly in the field of business. Practical applications were developed almost immediately.[citation needed] In fact, when it comes to business, promoting cultural sensitivity will help people work more effectively when interacting with people from other countries, and will participate to make sure transactions are successful.
+
+International communication[edit]
+In business it is commonly agreed that communication is one of the primary concerns. So, for professionals who work internationally; people who interact daily with other people from different countries within their company or with other companies abroad; Hofstede's model gives insights into other cultures. In fact, cross-cultural communication requires being aware of cultural differences because what may be considered perfectly acceptable and natural in one country, can be confusing or even offensive in another. All the levels in communication are affected by cultural dimensions: verbals (words and language itself), non verbals (body language, gestures) and etiquette do's and don'ts (clothing, gift-giving, dining, customs and protocol). And this is also valid for written communication as explained in William Wardrobe's essay "Beyond Hofstede: Cultural applications for communication with Latin American Businesses".[15]
+
+International negotiation[edit]
+In international negotiations, communication style, expectation, issue ranking and goals will change according to the negotiators' countries of origin. If applied properly, an understanding of cultural dimensions should increase success in negotiations and reduce frustration and conflicts.[16] For example, in a negotiation between Chinese and Canadians, the Canadian negotiators may want to reach an agreement and sign a contract, whereas the Chinese negotiators may want to spend more time for non-business activities, small talks and hospitality with preferences for protocol and form in order to first establish the relationship.
+
+"When negotiating in Western countries, the objective is to work toward a target of mutual understanding and agreement and 'shake-hands' when that agreement is reached – a cultural signal of the end of negotiations and the start of 'working together'. In Middle Eastern countries much negotiation takes place leading into the 'agreement', signified by shaking hands. However, the deal is not complete in the Middle Eastern culture. In fact, it is a cultural sign that 'serious' negotiations are just beginning."[13]
+
+International management[edit]
+These considerations are also true in international management and cross-cultural leadership. Decisions taken have to be based on the country's customs and values.[17]
+
+When working in international companies, managers may provide training to their employees to make them sensitive to cultural differences, develop nuanced business practices, with protocols across countries. Hofstede's dimensions offer guidelines for defining culturally acceptable approaches to corporate organizations.
+
+As a part of the public domain, Geert Hofstede's work is used by numerous consultancies worldwide.[18]
+
+International marketing[edit]
+The six-dimension model is very useful in international marketing because it defines national values not only in business context but in general. Marieke de Mooij has studied the application of Hofstede's findings in the field of global branding, advertising strategy and consumer behavior. As companies try to adapt their products and services to local habits and preferences they have to understand the specificity of their market.[19]
+
+For example, if you want to market cars in a country where the uncertainty avoidance is high, you should emphasize their safety, whereas in other countries you may base your advertisement on the social image they give you. Cell phone marketing is another interesting example of the application of Hofstede's model for cultural differences: if you want to advertise cell phones in China, you may show a collective experience whereas in the United States you may show how an individual uses it to save time and money. The variety of application of Hofstede's abstract theory is so wide that it has even been translated in the field of web designing in which you have to adapt to national preferences according to cultures' values.[20]
+
+Limitations of Hofstede's model[edit]
+Even though Hofstede's model is generally accepted as the most comprehensive framework of national cultures values by those studying business culture, its validity and its limitations have been extensively criticized.
+
+The most cited critique is McSweeney.[21] Hofstede replied to that critique[22] and McSweeney responded.[23] Also Ailon deconstructed Hofstede's book Culture's Consequences by mirroring it against its own assumptions and logic.[24] Ailon finds inconsistencies at the level of both theory and methodology and cautions against an uncritical reading of Hofstede's cultural dimensions. Hofstede replied to that critique[25] and Ailon responded.[26]
+
+Questionable choice of national level[edit]
+Aside from Hofstede's five cultural dimensions, there are other factors on which culture can be analyzed. There are other levels for assessing culture. These levels are overlooked often because of the nature of the construction of these levels. There is sampling discrepancy that disqualifies the survey from being authoritative on organizations, or societies, or nations as the interviews involved sales and engineering personnel with few, if any, women and undoubtedly fewer social minorities participating (Moussetes, 2007). Even if country indices were used to control for wealth, latitude, population size, density and growth, privileged males working as engineers or sales personnel in one of the elite organizations of the world, pioneering one of the first multinational projects in history, cannot be claimed to represent their nations.[27]
+
+Individual level: cultural dimensions versus individual personalities[edit]
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2015) (Learn how and when to remove this template message)
+
+Hofstede acknowledges that the cultural dimensions he identified, as culture and values, are theoretical constructions. They are tools meant to be used in practical applications. Generalizations about one country's culture are helpful but they have to be regarded as such, i.e. as guidelines for a better understanding. They are group-level dimensions which describe national averages which apply to the population in its entirety. Hofstede's cultural dimensions enable users to distinguish countries but are not about differences between members of societies. They don't necessarily define individuals' personalities. National scores should never be interpreted as deterministic for individuals. For example, a Japanese person can be very comfortable in changing situations whereas on average, Japanese people have high uncertainty avoidance. There are still exceptions to the rule. Hofstede's theory can be contrasted with its equivalence at individual level: the trait theory about human personality.
+
+25 min
+
+Variations on the typologies of collectivism and individualism have been proposed (Triandis, 1995; Gouveia and Ros, 2000). Self-expression and individualism increase with economic growth (Inglehart, 1997), independent of any culture, and they are vital in small populations faced with outside competition for resources. Entitled individuals in positions of power embrace autonomy even if they live in a “collective” culture. Like the power index, the individualism and collectivism surveys scatter countries according to predictable economic and demographic patterns (Triandis, 2004)[full citation needed], so they might not really inform us at all about any particular organizational dynamic, nor do they inform about the organizational and individual variations within similar socio-economic circumstances. Individual aggregate need careful separation from nation aggregate (Smith et al., 2008). Whereas individuals are the basic subject of psychological analysis (Smith, 2004), the socialization of individuals and their interaction with society is a matter to be studied at the level of families, peers, neighborhoods, schools, cities, and nations each with its own statistical imprint of culture (Smith, 2004). S. Schwartz controlled his value data with GNP and a social index, leading to his proposal of differentiated individual and nation indices of itemized values (Schwartz, 1992; 1994) for cross-cultural comparison. The assumed “isomorphism of constructs” has been central to deciding how to use and understand culture in the managerial sciences (Van de Vijver et al. 2008; Fischer, 2009). As no individual can create his/her discourse and sense-making process in isolation to the rest of society, individuals are poor candidates for cultural sense-making. Postmodern criticism rejects the possibility of any self-determining individual because the unitary, personal self is an illusion of contemporary society evidenced by the necessary reproductions and simulations in language and behavior that individuals engage in to sustain membership in any society (Baudrillard, 1983; Alvesson & Deetz, 2006).[27]
+
+Organizational level[edit]
+Within and across countries, individuals are also parts of organizations such as companies. Hofstede acknowledges that "the […] dimensions of national cultures are not relevant for comparing organizations within the same country".[3] In contrast with national cultures embedded in values, organizational cultures are embedded in practices.
+
+From 1985 to 1987, Hofstede's institute IRIC (Institute for Research on Intercultural Cooperation)[28] has conducted a separate research project in order to study organizational culture. Including 20 organizational units in two countries (Denmark and the Netherlands), six different dimensions of practices, or communities of practice have been identified:
+
+Process-Oriented vs. Results-Oriented
+Employee-Oriented vs. Job-Oriented
+Parochial vs. Professional
+Open System vs. Closed System
+Loose Control vs. Tight Control
+Pragmatic vs. Normative
+Managing international organizations involves understanding both national and organizational cultures. Communities of practice across borders are significant for multinationals in order to hold the company together.
+
+Within the occupational level, there is a certain degree of values and convictions that people hold with respect to the national and organizational cultures they are part of. The culture of management as an occupation has components from national and organizational cultures. This is an important distinction from the organizational level.
+
+Gender level[edit]
+When describing culture, gender differences are largely not taken into consideration. However, there are certain factors that are useful to analyze in the discussion of cross-cultural communication. Within each society, men's culture differs greatly from women's culture. Although men and women can often perform the same duties from a technical standpoint, there are often symbols to which each gender has a different response. In situations where one gender responds in an alternative manner to their prescribed roles, the other sex may not even accept their deviant gender role. The level of reactions experienced by people exposed to foreign cultures can be compared similarly to the reactions of gender behaviors of the opposite sex. The degree of gender differentiation in a country depends primarily on the culture within that nation and its history.
+
+The bipolar model follows typical distinctions made between liberal or socialist political philosophy. Although liberal economies value assertiveness, autonomy, materialism, aggression, money, competition and rationalism, welfare socialism seeks protection and provision for the weak, greater involvement with the environment, an emphasis on nature and well being, and a strong respect for quality of life and collective responsibilities. Masculine societies happen to include the most successful economically during the period of Hofstede’s study (USA, Japan, Germany) with the successful feminine societies having either smaller populations, less economic scale and/or strong collective and welfare philosophies (Scandinavia, Costa Rica, France, Thailand). The masculine-feminine dichotomy divides organizations into those exhibiting either compassion, solidarity, collectivism and universalism, or competition, autonomy, merit, results and responsibility. According to Gilligan, this dimension is eurocentric and sexist.[27]
+
+
+High’ and ‘low’ culture
+
+There is a narrow sense in which 'culture' is only used for the arts: music, painting, literature. In our work we also consider all other human social activities as cultural. Greeting, eating, tweeting and cheating are all affected by culture.
+
+
+What is culture?
+
+Simply said, culture is how you were raised. It developed while you grew up. With a computer metaphor, culture is the software of our minds. We need shared software in order to communicate. So culture is about what we share with those around us.
+
+In action in social life, culture constitutes the unwritten rules of the social game. ▲ Read more
+
+These rules do not specify any details, but they specify the basic structure of the social landscape. They are about things such as independence, belonging, love, hate, respect, fear, and loyalty.
+
+They specify which contrasts matter in life: small versus big, clean versus dirty, man versus woman.
+
+Note that culture is about what we share with others. It is NOT something like personality, which is unique to an individual.
+
+If you like to read more, browse the site. For a longer story, go the article by Geert in Online Readings in Psychology and Culture: "Dimensionalizing Culture: the Hofstede model in context". The best source is our book Cultures & Organizations. 
+
+The dimensions explained
+
+For each dimension here is a brief description and a ten-minute video in which Geert Hofstede explains that dimension.
+
+Individualism
+
+10 minutes with Geert Hofstede on Individualisme versus Collectivisme 10112014
+https://www.youtube.com/watch?time_continue=1&v=zQj1VPNPHlI
+
+
+Individualism is the extent to which people feel independent, as opposed to being interdependent as members of larger wholes.
+▲  Read more
+
+Individualism does not mean egoism. It means that individual choices and decisions are expected. Collectivism does not mean closeness. It means that one "knows one's place" in life, which is determined socially. With a metaphor from physics, people in an individualistic society are more like atoms flying around in a gas while those in collectivist societies are more like atoms fixed in a crystal.
+
+Power Distance
+
+https://www.youtube.com/watch?v=DqAJclwfyCw&list=PLQvFZ16QYK_ovcyej9kTjCrsg0mnS3oaJ
+10 minutes with Geert Hofstede... on Power Distance 10112014
+
+Power Distance is the extent to which the less powerful members of organizations and institutions (like the family) accept and expect that power is distributed unequally.
+▲    Read more
+
+This dimension is thought to date from the advent of agriculture, and with it, of large-scale societies. Until that time, a person would know their group members and leaders personally. This is not possible where tens of thousands and more have to coordinate their lives. Without acceptance of leadership by powerful entities, none of today's societies could run.
+
+Masculinity
+
+10 minutes with...Geert Hofstede on Masculinity versus Femininity 10112014
+https://www.youtube.com/watch?v=Pyr-XKQG2CM&index=3&list=PLQvFZ16QYK_ovcyej9kTjCrsg0mnS3oaJ
+
+Masculinity
+Masculinity is the extent to which the use of force in endorsed socially.
+▲    Read more
+
+In a masculine society, men are supposed to be tough. Men are supposed to be from Mars, women from Venus. Winning is important for both genders. Quantity is important and big is beautiful. In a feminine society, the genders are emotionally closer. Competing is not so openly endorsed, and there is sympathy for the underdog.
+This is NOT about individuals, but about expected emotional gender roles. Masculine societies are much more openly gendered than feminine societies. 
+
+
+Uncertainty Avoidance
+
+
+10 minutes with Geert Hofstede on Uncertainty Avoidance 01032015
+https://www.youtube.com/watch?v=fZF6LyGne7Q&list=PLQvFZ16QYK_ovcyej9kTjCrsg0mnS3oaJ&index=4
+
+
+Uncertainty avoidance deals with a society’s tolerance for uncertainty and ambiguity.
+▲    Read more
+
+Uncertainty avoidance has nothing to do with risk avoidance, nor with following rules. It has to do with anxiety and distrust in the face of the unknown, and conversely, with a wish to have fixed habits and rituals, and to know the truth. 
+
+Long-term orientation
+
+10 minutes with Geert Hofstede on Long versus Short Term Orientation 01032015
+https://www.youtube.com/watch?v=H8ygYIGsIQ4&list=PLQvFZ16QYK_ovcyej9kTjCrsg0mnS3oaJ&index=5
+
+Long-term orientation deals with change.
+▲    Read more
+
+In a long-time-oriented culture, the basic notion about the world is that it is in flux, and preparing for the future is always needed. In a short-time-oriented culture, the world is essentially as it was created, so that the past provides a moral compass, and adhering to it is morally good. 
+
+Indulgence
+
+ 10 minutes with Geert Hofstede on Indulgence versus Restraint 01032015
+https://www.youtube.com/watch?v=V0YgGdzmFtA
+
+Indulgence is about the good things in life.
+▲    Read more
+
+In an indulgent culture it is good to be free. Doing what your impulses want you to do, is good. Friends are important and life makes sense. In a restrained culture, the feeling is that life is hard, and duty, not freedom, is the normal state of being. 
+
+Are there more dimensions?
+
+Since dimensions are imagined, not 'out there', there can be many more. Any study will reveal its own pattern, so yes, other dimensions can be found.
+
+▲    Read more
+
+If you are interested, watch new publications by for instance Michael Minkov. Here, for now, we work with the 6D model. It has great validity and practical usability. It predicts  real-world phenomena at the level of the nation (or region, in some cases).
+
+
+Games: less is more
+
+Deep cross-cultural issues can be uncovered by extremely simple games. Staging an encounter in a narrow passage, getting stuck in an elevator together: these things can give enough material for hours of debriefing. Of course in games, culture is never the only thing. Personalities, experiences, prejudices and other variables at individual level enter the scene. Debriefing is crucial.
+
+Simulation games
+
+Nothing could yield more serious learning than a simulation game. People do not just learn through books. Most people in the world hardly ever read books, yet they learn how to be good members of their societies. They learn by imitation and by engagement. This natural condition of learning is what simulation games try to reproduce.
+
+Gert Jan has worked extensively with simulation games. Here are two of his books.
+
+Synthetic Cultures
+
+Exploring CultureIn Exploring Culture, Gert Jan offers a treasure trove of materials for cross-cultural learning. They can be used in schools or companies or in any context where cross-cultural communication occurs. The major contribution is Synthetic Cultures, a set of scripts for each dimension based on an idea by Paul Pedersen. The book also contains stories and exercises, all with debriefing information. Any trainer can adapt Synthetic Cultures to their own context. See also our books.
+
+Why do games work?
+
+WhyDoGamesWorkIn this book, we made twenty practitioners of simulation gaming dump their brains on what makes simulation games work. ▼ Bibliographic data

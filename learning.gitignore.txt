@@ -1,0 +1,20 @@
+# The rules for the patterns you can put in the .gitignore file are as follows:
+
+# Blank lines or lines starting with # are ignored.
+
+# Standard glob patterns work, and will be applied recursively throughout the entire working tree.
+
+# You can start patterns with a forward slash (/) to avoid recursivity.
+
+# You can end patterns with a forward slash (/) to specify a directory.
+
+# You can negate a pattern by starting it with an exclamation point (!).
+
+# GitHub maintains a fairly comprehensive list of good .gitignore file examples for 
+# dozens of projects and languages at https://github.com/github/gitignore if you want a # starting point for your project.
+
+
+
+# https://help.github.com/articles/ignoring-files/
+# In Terminal, navigate to the location of your Git repository.
+# Enter touch .gitignore to create a .gitignore file.
